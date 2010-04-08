@@ -1,7 +1,7 @@
 #summary How to create testing database
 #labels Featured,Phase-Implementation
 
-IQToolkit and SimpleDatabase use Northwind as testing database.
+IQToolkit and Simple Database use Northwind as testing database.
 
 To create Northwind in Oracle, check [http://code.google.com/p/iqtoolkit-oracle/wiki/HowtoCreateNorthwind HowtoCreateNorthwind].
 
