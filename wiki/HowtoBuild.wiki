@@ -14,9 +14,11 @@ SimpleDatabase
 }}}
 
 3. Check out source to the directories:
-1) {{{IQToolkit: http://iqtoolkit-oracle.googlecode.com/svn/trunk/iqtoolkit-oracle-read-only}}}
-2) {{{SimpleControls: http://simple-controls.googlecode.com/svn/trunk/simple-controls-read-only}}}
-3) {{{SimpleDatabase: http://simple-database.googlecode.com/svn/trunk/simple-database-read-only}}}
+{{{
+1) IQToolkit: http://iqtoolkit-oracle.googlecode.com/svn/trunk/iqtoolkit-oracle-read-only
+2) SimpleControls: http://simple-controls.googlecode.com/svn/trunk/simple-controls-read-only
+3) SimpleDatabase: http://simple-database.googlecode.com/svn/trunk/simple-database-read-only
+}}}
 
 4. Finally, your directories look like:
 {{{
