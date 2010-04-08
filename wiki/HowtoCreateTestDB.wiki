@@ -1,4 +1,4 @@
-#summary How to create testing database
+#summary How to Create Testing Database
 #labels Featured,Phase-Implementation
 
 IQToolkit and Simple Database use Northwind as testing database.
